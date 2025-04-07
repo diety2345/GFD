@@ -65,6 +65,7 @@ align-items: left;
 }
 nav{
     display: flex;
+    color: white;
 }
 #hi{
     margin: auto;
